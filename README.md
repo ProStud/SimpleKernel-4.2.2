@@ -8,25 +8,32 @@ and I/O Schedulers.  Built with the Linaro Toolchain
 Features
 ========
 
-+I/O Schedulers+
+I/O Schedulers
 ----------------
 -sioplus
 -fifo
 -row
 
-+Governors+
+Governors
 -----------
 -lulzactive
+
 -smartassV2
+
 -adaptiveX
+
 -adaptive
+
 -pegasusq
+
 -sakuractive
+
 -interactiveX
 
 CREDITS
 =======
 
 Kernel Source by STS-Dev-Team
+
 Linaro Toolchain from DooMLoRd
 
